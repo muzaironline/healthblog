@@ -1,0 +1,106 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Jun 2020 12:15:31 at http://localhost/sites/health-fitness.tk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/sites/health-fitness.tk/ -O1 "C:\GitSites\HealthSpirits" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:04:41	Error: 	"Bad Request" (400) at link localhost/sites/health-fitness.tk/wp-admin/admin-ajax.php (from localhost/sites/health-fitness.tk/)
+13:10:15	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=112
+13:10:15	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=112 to http://localhost/sites/health-fitness.tk/about-us/
+13:10:15	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=114
+13:10:15	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=114 to http://localhost/sites/health-fitness.tk/contact-us/
+13:10:15	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=104
+13:10:15	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=104 to http://localhost/sites/health-fitness.tk/remedies/natural-remedies-to-get-rid-of-bloating-belly-pain/
+13:10:15	Error: 	"Method Not Allowed" (405) at link localhost/sites/health-fitness.tk/xmlrpc.php (from localhost/sites/health-fitness.tk/remedies/natural-remedies-to-get-rid-of-bloating-belly-pain/)
+13:11:00	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=102
+13:11:00	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=102 to http://localhost/sites/health-fitness.tk/remedies/try-these-natural-ways-to-relieve-constipation/
+13:11:11	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=97
+13:11:11	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=97 to http://localhost/sites/health-fitness.tk/remedies/effective-ways-to-treat-of-toenail-fungus-naturally/
+13:11:46	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=95
+13:11:46	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=95 to http://localhost/sites/health-fitness.tk/life-hacks/do-your-eyes-get-tired-try-these-simple-eye-exercises/
+13:12:02	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=91
+13:12:02	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=91 to http://localhost/sites/health-fitness.tk/remedies/how-to-strengthen-your-weak-hairs-add-volume/
+13:12:02	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=89
+13:12:02	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=89 to http://localhost/sites/health-fitness.tk/remedies/natural-ways-to-get-thick-strong-hairs/
+13:12:02	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=87
+13:12:02	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=87 to http://localhost/sites/health-fitness.tk/life-hacks/should-you-take-the-hot-shower-or-cold-see-the-reasons/
+13:12:12	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=85
+13:12:12	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=85 to http://localhost/sites/health-fitness.tk/remedies/list-of-10-foods-to-boost-metabolism/
+13:12:12	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=82
+13:12:12	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=82 to http://localhost/sites/health-fitness.tk/life-hacks/drink-water-on-an-empty-stomach-for-a-month-see-what-happens/
+13:12:12	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=80
+13:12:12	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=80 to http://localhost/sites/health-fitness.tk/life-hacks/quit-these-habits-if-you-want-to-stop-getting-sick-in-the-cold-weather/
+13:12:25	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=14
+13:12:25	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=14 to http://localhost/sites/health-fitness.tk/nutrition/an-egg-a-day-is-it-good-for-your-heart-health/
+13:12:25	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=16
+13:12:25	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=16 to http://localhost/sites/health-fitness.tk/remedies/what-are-the-reasons-for-pain-in-my-back/
+13:12:25	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=20
+13:12:25	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=20 to http://localhost/sites/health-fitness.tk/fitness/how-to-know-if-you-are-suffering-from-lungs-cancer/
+13:12:25	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=25
+13:12:25	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=25 to http://localhost/sites/health-fitness.tk/life-hacks/stop-sleeping-with-wet-hairs-otherwise-see-this/
+13:13:11	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=116
+13:13:11	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=116 to http://localhost/sites/health-fitness.tk/disclaimer/
+13:13:11	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=3
+13:13:11	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=3 to http://localhost/sites/health-fitness.tk/privacy-policy/
+13:13:11	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=78
+13:13:11	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=78 to http://localhost/sites/health-fitness.tk/nutrition/never-ignore-these-reasons-if-you-cant-lose-weight-with-proper-diet/
+13:13:11	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=76
+13:13:11	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=76 to http://localhost/sites/health-fitness.tk/life-hacks/10-body-care-tricks-you-never-know-about/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=74
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=74 to http://localhost/sites/health-fitness.tk/remedies/you-may-have-tried-a-lot-methods-but-try-these-great-ways-to-stay-in-shape/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=72
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=72 to http://localhost/sites/health-fitness.tk/life-hacks/stop-these-habits-that-make-you-age-faster/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=70
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=70 to http://localhost/sites/health-fitness.tk/life-hacks/ways-to-use-your-phone-without-damaging-your-neck-posture/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=68
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=68 to http://localhost/sites/health-fitness.tk/life-hacks/do-you-snoring-while-sleeping-or-not-dont-miss-it/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=65
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=65 to http://localhost/sites/health-fitness.tk/remedies/do-you-also-suffer-fom-neck-pain-why-does-my-neck-hurt/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=60
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=60 to http://localhost/sites/health-fitness.tk/life-hacks/foods-that-improves-your-mood/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=54
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=54 to http://localhost/sites/health-fitness.tk/remedies/15-methods-how-to-improve-your-brain-power/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=52
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=52 to http://localhost/sites/health-fitness.tk/life-hacks/10-food-products-that-can-be-surprising/
+13:13:17	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=57
+13:13:17	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=57 to http://localhost/sites/health-fitness.tk/remedies/quickest-ways-to-relieve-your-headache/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=41
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=41 to http://localhost/sites/health-fitness.tk/remedies/got-cracked-heels-how-to-fix-them-naturally/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=31
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=31 to http://localhost/sites/health-fitness.tk/nutrition/8-healthy-foods-benefits-overdose-results/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=46
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=46 to http://localhost/sites/health-fitness.tk/remedies/do-walnuts-can-flourish-your-body/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=29
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=29 to http://localhost/sites/health-fitness.tk/remedies/body-care-rules-that-are-unsafe-to-ignore-doctors-say/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=50
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=50 to http://localhost/sites/health-fitness.tk/life-hacks/six-exercises-to-do-in-bed/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=33
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=33 to http://localhost/sites/health-fitness.tk/life-hacks/how-to-identify-these-bug-bites-mosquito-bites/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=44
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=44 to http://localhost/sites/health-fitness.tk/remedies/natural-way-to-whiten-your-teeth-at-home/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=5
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=5 to http://localhost/sites/health-fitness.tk/fitness/check-here-are-you-going-to-suffer-from-heart-disease-in-future/
+13:13:18	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=63
+13:13:18	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=63 to http://localhost/sites/health-fitness.tk/life-hacks/do-you-have-sleep-problems-try-these-scientific-ways/
+13:13:18	Error: 	"Not Found" (404) at link https://commons.wikimedia.org/wiki/Skins.vector.legacy.js (from https://commons.wikimedia.org/wiki/File:Female_wet_hair_strands_face_turned.jpg)
+13:21:51	Warning: 	Link https://commons.wikimedia.org/wiki/Special:Contributions/Flickr_upload_bot not scanned (follow robots meta tag)
+13:32:43	Warning: 	Link https://commons.wikimedia.org/wiki/Special:Categories not scanned (follow robots meta tag)
+13:57:30	Warning: 	Link https://commons.wikimedia.org/wiki/Special:MyTalk not scanned (follow robots meta tag)
+13:57:30	Warning: 	Link https://commons.wikimedia.org/wiki/Special:MyContributions not scanned (follow robots meta tag)
+13:57:32	Warning: 	Link https://commons.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=File%3AFemale+wet+hair+strands+face+turned.jpg not scanned (follow robots meta tag)
+13:57:32	Warning: 	Link https://commons.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=File%3AFemale+wet+hair+strands+face+turned.jpg not scanned (follow robots meta tag)
+14:16:10	Warning: 	Link https://commons.wikimedia.org/wiki/Special:UploadWizard not scanned (follow robots meta tag)
+14:16:11	Warning: 	Link https://commons.wikimedia.org/wiki/Special:RecentChanges not scanned (follow robots meta tag)
+14:16:11	Warning: 	Link https://commons.wikimedia.org/wiki/Special:NewFiles not scanned (follow robots meta tag)
+14:18:46	Warning: 	Link https://commons.wikimedia.org/wiki/Special:WhatLinksHere/File:Female_wet_hair_strands_face_turned.jpg not scanned (follow robots meta tag)
+14:18:46	Error: 	"Not Found" (404) at link https://commons.wikimedia.org/wiki/Special:RecentChangesLinked/File:Female_wet_hair_strands_face_turned.jpg (from https://commons.wikimedia.org/wiki/File:Female_wet_hair_strands_face_turned.jpg)
+14:18:46	Warning: 	Link https://commons.wikimedia.org/wiki/Special:SpecialPages not scanned (follow robots meta tag)
+14:18:46	Warning: 	Moved Permanently for localhost/sites/health-fitness.tk/?p=48
+14:18:46	Warning: 	File has moved from localhost/sites/health-fitness.tk/?p=48 to http://localhost/sites/health-fitness.tk/life-hacks/10-exercises-for-good-eyesight/
+14:32:49	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

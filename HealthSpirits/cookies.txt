@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	09-Jun-2020
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	PK:IS:Islamabad:33.70:73.01:v4
+.dontwastethecrumbs.com	TRUE	/	FALSE	1999999999	__cfduid	d4a8180700fddd8d9f80b2761f87db2341591689897
+dontwastethecrumbs.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.medicinenet.com	TRUE	/	FALSE	1999999999	__cfduid	dfd60f6265c0f7849994eb08c1593814b1591690033
+images.medicinenet.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	09-Jun-2020
+files.brightside.me	TRUE	/	FALSE	1999999999	ug	PK
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	oh27lal3hqju2h8sedi32lc0bh4dhe0q
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	forceHTTPS	true
+.loc.gov	TRUE	/	FALSE	1999999999	__cfduid	d31ed673d83c217c19e50e86b7c40a0db1591694176
+cdn.loc.gov	TRUE	/	FALSE	1999999999	SameSite	Lax
+.onlineworldofwrestling.com	TRUE	/	FALSE	1999999999	__cfduid	d7256669564bb4ad7b784b075ca3f2fb81591695144
+www.onlineworldofwrestling.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
